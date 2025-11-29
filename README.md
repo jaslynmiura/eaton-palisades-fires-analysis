@@ -1,8 +1,8 @@
-# Visualizing Fire Scars Through False Color
+# Visualizing Fire Scars Through False Color (EDS 220, Homework 4)
 
 ## About
 
-This repository contains materials for an analysis of the effect of the Eaton and Palisades fires in California (January 2025), using false-color imagery to visualize the fire scars.
+This repository contains materials for Homework 4 of the course EDS 220 - Working with Environmental Datasets. The material is used to conduct an analysis of the effect of the Eaton and Palisades fires in California (January 2025), using false-color imagery to visualize the fire scars. 
 
 ## File Structure
 
@@ -18,13 +18,13 @@ This repository contains materials for an analysis of the effect of the Eaton an
 
 ## Data
 
-- Eaton Fire Perimeter: Retrieved from the County of Los Angeles Geohub. The dataframe contains geometries of the perimeter of the Eaton fire.
+- Eaton Fire Perimeter: Accessed from the County of Los Angeles Geohub. The dataframe contains geometries of the perimeter of the Eaton fire.
     - Date Accessed: November 19, 2025
 
-- Palisade Fire Perimeter: Retrieved from the County of Los Angeles Geohub. The dataframe contains geometries of the perimeter of the Palisade fire.
+- Palisade Fire Perimeter: Accessed from the County of Los Angeles Geohub. The dataframe contains geometries of the perimeter of the Palisade fire.
     - Date Accessed: November 19, 2025
 
-- Landsat: Retrieved from the Microsof Planetary Computer data catalogue and sourced from the Landsat Collection 2 Level-2 Science Products, specifically the atmospherically corrected surface reflectance image data. 
+- Landsat: Accessed from the Microsof Planetary Computer data catalogue and sourced from the Landsat Collection 2 Level-2 Science Products, specifically the atmospherically corrected surface reflectance image data. 
     - Date Accessed: November 19, 2025
 
 ## References:
