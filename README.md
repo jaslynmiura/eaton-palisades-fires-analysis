@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains materials for Homework 4 of the course EDS 220 - Working with Environmental Datasets. The material is used to conduct an analysis of the effect of the Eaton and Palisades fires in California (January 2025), using false-color imagery to visualize the fire scars. 
+This repository contains materials for Homework 4, of the course EDS 220 - Working with Environmental Datasets. The material is used to conduct an analysis of the effect of the Eaton and Palisades fires in California (January 2025), using false-color imagery to visualize the fire scars. 
 
 ## File Structure
 
