@@ -1,4 +1,4 @@
-# Mapping the 2025, Eaton and Palisades Fire Effects (EDS 220, Homework 4)
+# Mapping the 2025, Eaton and Palisades Fire Effects (EDS 220, Homework 4 and Section 8)
 
 ## About
 
