@@ -20,7 +20,7 @@ This repository contains materials for final project, of the course EDS 220 - Wo
 
 ## Data
 
-- Environmental Justice Index: Access from the Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry's Geospatial, Research, Analysis, and Services program. The datafroma contains EJI data for the state of California.
+- Environmental Justice Index: Accessed from the Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry's Geospatial, Research, Analysis, and Services program. The datafroma contains EJI data for the state of California.
     - Date Accessed: November 21, 2025
 
 - Eaton Fire Perimeter: Accessed from the County of Los Angeles Geohub. The dataframe contains geometries of the perimeter of the Eaton fire.
@@ -29,7 +29,7 @@ This repository contains materials for final project, of the course EDS 220 - Wo
 - Palisade Fire Perimeter: Accessed from the County of Los Angeles Geohub. The dataframe contains geometries of the perimeter of the Palisade fire.
     - Date Accessed: November 19, 2025
 
-- Landsat: Accessed from the Microsof Planetary Computer data catalogue and sourced from the Landsat Collection 2 Level-2 Science Products, specifically the atmospherically corrected surface reflectance image data. 
+- Landsat: Accessed from the Microsoft Planetary Computer data catalogue and sourced from the Landsat Collection 2 Level-2 Science Products, specifically the atmospherically corrected surface reflectance image data. 
     - Date Accessed: November 19, 2025
 
 ## References:
